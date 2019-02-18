@@ -19,3 +19,6 @@ _bookdown_files/
 
 .DS_Store
 .Rproj.user
+
+*png
+*rds
